@@ -6,6 +6,7 @@
   <Project Path="Bounded-Priority-Queue-with-Eviction/Bounded-Priority-Queue-with-Eviction.csproj" Id="675d48e2-1042-461e-853d-63f846a3fa8e" />
   <Project Path="Encapusulation/Encapusulation.csproj" />
   <Project Path="Events/Events.csproj" />
+  <Project Path="Generic-In-Memory-Cache/Generic-In-Memory-Cache.csproj" Id="8ffaf320-0a82-4b57-9240-da27565ad1bc" />
   <Project Path="Inheritence/Inheritence.csproj" />
   <Project Path="Polymorphism&amp;Abstraction/Polymorphism&amp;Abstraction.csproj" Id="e0af5431-d38c-4b77-bd53-50de280ae8f4" />
 </Solution>
