@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="Encapusulation/Encapusulation.csproj" />
+  <Project Path="Events/Events.csproj" />
+  <Project Path="Inheritence/Inheritence.csproj" />
+  <Project Path="Polymorphism&amp;Abstraction/Polymorphism&amp;Abstraction.csproj" Id="e0af5431-d38c-4b77-bd53-50de280ae8f4" />
+</Solution>
