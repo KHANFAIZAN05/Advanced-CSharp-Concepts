@@ -3,6 +3,7 @@
     <File Path=".gitattributes" />
     <File Path=".gitignore" />
   </Folder>
+  <Project Path="Bounded-Priority-Queue-with-Eviction/Bounded-Priority-Queue-with-Eviction.csproj" Id="675d48e2-1042-461e-853d-63f846a3fa8e" />
   <Project Path="Encapusulation/Encapusulation.csproj" />
   <Project Path="Events/Events.csproj" />
   <Project Path="Inheritence/Inheritence.csproj" />
